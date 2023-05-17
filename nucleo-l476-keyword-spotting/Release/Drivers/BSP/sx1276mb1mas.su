@@ -1,0 +1,15 @@
+sx1276mb1mas.c:145:10:SX1276MB1MAS_RADIO_GetWakeUpTime	0	static
+sx1276mb1mas.c:150:6:SX1276MB1MAS_RADIO_SetXO	0	static
+sx1276mb1mas.c:154:6:SX1276MB1MAS_RADIO_IoInit	120	static
+sx1276mb1mas.c:216:6:SX1276MB1MAS_RADIO_IoDeInit	56	static
+sx1276mb1mas.c:241:6:SX1276MB1MAS_RADIO_IoIrqInit	40	static,ignoring_inline_asm
+sx1276mb1mas.c:260:6:SX1276MB1MAS_RADIO_IRQHandler	0	static
+sx1276mb1mas.c:265:18:SX1276MB1MAS_RADIO_GetPaSelect	0	static
+sx1276mb1mas.c:277:6:SX1276MB1MAS_RADIO_SetAntSw	0	static
+sx1276mb1mas.c:310:6:SX1276MB1MAS_RADIO_CheckRfFrequency	0	static
+sx1276mb1mas.c:316:6:SX1276MB1MAS_RADIO_Reset	40	static
+sx1276mb1mas.c:342:6:SX1276MB1MAS_RADIO_Bus_Init	0	static
+sx1276mb1mas.c:347:6:SX1276MB1MAS_RADIO_Bus_deInit	0	static
+sx1276mb1mas.c:357:10:SX1276MB1MAS_RADIO_SendRecv	24	static
+sx1276mb1mas.c:367:6:SX1276MB1MAS_RADIO_ChipSelect	0	static
+sx1276mb1mas.c:379:10:SX1276MB1MAS_RADIO_GetDio1PinState	8	static

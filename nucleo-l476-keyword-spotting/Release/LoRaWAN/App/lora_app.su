@@ -1,0 +1,11 @@
+lora_app.c:520:13:OnTxTimerLedEvent	0	static
+lora_app.c:506:13:OnTxTimerEvent	8	static
+lora_app.c:617:13:OnMacProcessNotify	0	static
+lora_app.c:397:13:SendTxData	32	static
+lora_app.c:320:13:OnRxData	32	static
+lora_app.c:553:13:OnTxData	24	static
+lora_app.c:583:13:OnJoinRequest	8	static
+lora_app.c:542:13:OnJoinTimerLedEvent	0	static
+lora_app.c:531:13:OnRxTimerLedEvent	0	static
+lora_app.c:229:6:LoRaWAN_Init	32	static
+lora_app.c:295:6:BSP_PB_Callback	0	static
